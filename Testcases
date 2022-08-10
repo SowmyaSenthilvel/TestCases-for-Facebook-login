@@ -1,0 +1,13 @@
+Facebook login page (Test cases)
+-Check the login functionality with valid email and password
+-Check the login functionality with valid phoneNumber and valid password
+-Check the login functionality with invalid email and valid password
+-Check the login functionality with valid email and invalid password
+-Check the login functionality with invalid email and invalid password
+-check with blank email and valid password
+-check with valid email and blank password
+-check with blank ph num and valid password
+-check with valid ph num and blank password
+-check the tab key functionality
+-check the forgotten password key functionality 
+-check if wrong or invalid input is given and error message is displaying correctly
