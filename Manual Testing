@@ -1,0 +1,6 @@
+How to perform Manual Testing
+->Analyze the given requirement from the software requirement specification document
+->Create a clear test plan
+->Write the test cases that cover all the requirements specified in the document
+->Execute the test cases and detect any bugs
+->Report the bugs if any and once fixed then run the failed testcases again and reverify the fixes.
